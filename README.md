@@ -18,3 +18,6 @@ This project implements a WhatsApp-like home screen UI using Flutter. The main g
 1. Clone the repository:
    ```bash
    git clone https://github.com/MH-MuhammadHassan/WhatsApp-Home-UI-Design.git
+
+## Contribution:
+- Feel free to open an issue or submit a pull request if you'd like to contribute to the project.
